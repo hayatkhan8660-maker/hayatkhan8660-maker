@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/hayatkhan8660-maker/hayatkhan8660-maker/blob/main/images/banner.gif)]
+![MasterHead](https://github.com/hayatkhan8660-maker/hayatkhan8660-maker/blob/main/images/banner.gif)
 <h1 align="center">Hi 👋, I'm Hayat</h1>
 <h3 align="center">A passionate Computer Vision researcher and a PhD student at Kansas State University.</h3>
 <img align="right" alt="Coding" width="300" src="images/UI Developer.gif">
