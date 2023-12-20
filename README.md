@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/hayatkhan8660-maker/hayatkhan8660-maker/blob/main/images/banner.gif" width="600">
+    <img src="https://github.com/hayatkhan8660-maker/hayatkhan8660-maker/blob/main/images/banner.gif" width="1000">
 </div>
 
 <h1 align="center">Hi 👋, I'm Hayat</h1>
