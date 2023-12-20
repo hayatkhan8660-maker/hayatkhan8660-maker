@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hayat</h1>
 <h3 align="center">A passionate Computer Vision researcher and a PhD student at Kansas State University.</h3>
+<img align="right" alt="Coding" width="400" src="images/UI Developer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatkhan8660-maker&label=Profile%20views&color=0e75b6&style=flat" alt="hayatkhan8660-maker" /> </p>
