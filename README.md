@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Video scene understanding and video analytics. Development and evaluation of multi-model architectures for vision related tasks.**
 
-- 🤝 I’m looking for help with **Integration of Large Language Models (LLMs) with Large Vision Models (LVM)**
+- 🤝 I’m looking for help with **Integration of Large Language Models (LLMs) with Large Vision Models (LVMs)**
 
 - 👨‍💻 All of my projects are available at [hayatkhan8660-maker](hayatkhan8660-maker)
 
