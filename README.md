@@ -25,7 +25,6 @@
 
 - 📫 How to reach me **hayatu@ksu.edu**
 
-- ⚡ Fun fact **I am not funny at all**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
