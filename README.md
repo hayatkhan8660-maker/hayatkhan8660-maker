@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **PyTorch,PyTorch-Lightning,Tensorflow,and Keras**
 
-- 📫 How to reach me **hayatu@ksu.edu**
+- 📫 How to reach me **hullah2024@fau.edu** and **khanh9474@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
