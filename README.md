@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hayat</h1>
-<h3 align="center">A passionate Computer Vision researcher and a PhD student at Kansas State University.</h3>
+<h3 align="center">A passionate Computer Vision researcher and a PhD student at Florida Atlantic University.</h3>
 <img align="right" alt="Coding" width="300" src="images/UI Developer.gif">
 
 
