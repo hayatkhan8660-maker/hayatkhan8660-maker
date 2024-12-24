@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Human Action Recognition (HAR), Temporal Action Localization (TAL), Object Detection and Tracking in Videos.**
 
-- 🌱 I’m currently learning **Multi-Model representation learning, Self-Supervised learning, and Meta learning.**
+- 🌱 I’m currently learning **Multi-Model representation learning, Self-Supervised learning, and Meta learning.** 
 
 - 👯 I’m looking to collaborate on **Video scene understanding and video analytics. Development and evaluation of multi-model architectures for vision related tasks.**
 
