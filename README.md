@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Multi-Model Representation Learning, Self-Supervised Learning, and Meta Learning.** 
 
-- 👯 I’m looking to collaborate on **Video scene understanding and video analytics. Development and evaluation of multi-model architectures for vision related tasks.**
+- 👯 I’m looking to collaborate on **Video Scene Understanding and Video Analytics. Development and Evaluation of Multi-Modal Architectures for vision related tasks.**
 
 - 👨‍💻 All of my projects are available at [hayatkhan8660-maker](hayatkhan8660-maker)
 
