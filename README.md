@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [hayatkhan8660-maker](hayatkhan8660-maker)
 
-- 💬 Ask me about **PyTorch,PyTorch-Lightning,Tensorflow,and Keras**
+- 💬 Ask me about **PyTorch,Tensorflow,and Keras**
 
 - 📫 Reach me out @ **hullah2024@fau.edu** and **khanh9474@gmail.com**
 
