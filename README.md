@@ -17,6 +17,7 @@
 
 - 📫 Reach me out @ **hullah2024@fau.edu** and **khanh9474@gmail.com**
 
+- **Actively looking for a full-time job (open to both no-site and remote).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
