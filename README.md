@@ -26,22 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></td>
-    <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></td>
-  </tr>
-</table>
+![cplusplus](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![pytorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) ![tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayatkhan8660-maker&show_icons=true&locale=en&layout=compact" alt="hayatkhan8660-maker" /></p>
 
