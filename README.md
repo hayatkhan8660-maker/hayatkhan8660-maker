@@ -55,6 +55,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayatkhan8660-maker&show_icons=true&locale=en&layout=compact" alt="hayatkhan8660-maker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayatkhan8660-maker&show_icons=true&locale=en" alt="hayatkhan8660-maker" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hayatkhan8660-maker&" alt="hayatkhan8660-maker" /></p>
