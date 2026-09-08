@@ -28,37 +28,29 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 ## 🔬 Research Expertise
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 📺 Video Understanding
-- Temporal Action Localization (TAL)
-- Spatio-Temporal Action Recognition
-- Video Scene Understanding
-- Object Detection & Tracking in Videos
+### 📺 Video Understanding & Analysis
+**Temporal Action Localization** • **Spatio-Temporal Recognition** • **Scene Understanding** • **Object Detection & Tracking**
 
-</td>
-<td width="50%">
+### 🧠 Advanced Deep Learning Techniques  
+**Knowledge Distillation** • **Multi-Modal Architectures** • **Self-Supervised Learning** • **Meta Learning**
 
-### 🧠 Deep Learning
-- Knowledge Distillation
-- Multi-Modal Architectures
-- Self-Supervised Learning
-- Meta Learning Approaches
+</div>
 
-</td>
-</tr>
-</table>
+### 🎬 Specialized Research Areas
 
-### 🎬 Research Areas
-```
-Human Action Recognition (HAR)      ████████████████░░░░ 90%
-Temporal Action Localization (TAL)  ████████████████░░░░ 85%
-Video Object Detection & Tracking   ██████████░░░░░░░░░░ 70%
-Knowledge Distillation              ████████░░░░░░░░░░░░ 60%
-Multi-Modal Representation Learning ███████░░░░░░░░░░░░░ 55%
-```
+<div align="center">
+
+| Area | Expertise Level |
+|------|-----------------|
+| 🏆 Human Action Recognition (HAR) | ████████████████░░░░ **90%** |
+| 🎯 Temporal Action Localization (TAL) | ████████████████░░░░ **85%** |
+| 📹 Video Object Detection & Tracking | ██████████░░░░░░░░░░ **70%** |
+| 🤖 Knowledge Distillation | ████████░░░░░░░░░░░░ **60%** |
+| 🌐 Multi-Modal Learning | ███████░░░░░░░░░░░░░ **55%** |
+
+</div>
 
 ---
 
@@ -89,70 +81,18 @@ Multi-Modal Representation Learning ███████░░░░░░░�
 
 ### 🎖️ Most Impactful Research
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-#### 💫 DVFL-Net
-**Lightweight Video Focal Modulation Network**
-- Spatio-temporal action recognition
-- Efficient architecture design
-- [View Repository →](https://github.com/hayatkhan8660-maker/DVFL-Net)
+| Project | Description | Link |
+|---------|-------------|------|
+| **💫 DVFL-Net** | Lightweight Video Focal Modulation Network for Spatio-temporal Action Recognition | [![Repo](https://img.shields.io/badge/Repository-0A66C2?style=flat-square&logo=github)](https://github.com/hayatkhan8660-maker/DVFL-Net) |
+| **🌫️ Light-DehazeNet** | CNN for Single Image Dehazing • IEEE TIP 2021 • ⭐ 65 | [![Repo](https://img.shields.io/badge/Repository-0A66C2?style=flat-square&logo=github)](https://github.com/hayatkhan8660-maker/Light-DehazeNet) |
+| **📹 OD-VIRAT** | Large-Scale Object Detection Benchmark for Surveillance | [![Repo](https://img.shields.io/badge/Repository-0A66C2?style=flat-square&logo=github)](https://github.com/hayatkhan8660-maker/OD-VIRAT) |
+| **🔥 Fire Segmentation** | Efficient Fire Detection for ITS • IEEE TITS 2022 | [![Repo](https://img.shields.io/badge/Repository-0A66C2?style=flat-square&logo=github)](https://github.com/hayatkhan8660-maker/Fire_Seg_Dataset) |
+| **🧑‍🎓 Knowledge Distillation HAR** | Response-Based Offline Distillation for 3D CNN | [![Repo](https://img.shields.io/badge/Repository-0A66C2?style=flat-square&logo=github)](https://github.com/hayatkhan8660-maker/Response-based-offline-knowledge-distillation-for-HAR) |
+| **🛰️ Spacecraft DRL** | Deep Reinforcement Learning for Orbit Transfer | [![Repo](https://img.shields.io/badge/Repository-0A66C2?style=flat-square&logo=github)](https://github.com/hayatkhan8660-maker/Cascaded-Deep-Reinforcement-Learning-Based-Multi-Revolution-Low-Thrust-Spacecraft-Orbit-Transfer) |
 
-</td>
-<td width="50%">
-
-#### 🌫️ Light-DehazeNet
-**CNN for Image Dehazing**
-- Published: IEEE TIP 2021
-- 65+ stars on GitHub
-- [View Repository →](https://github.com/hayatkhan8660-maker/Light-DehazeNet)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 📹 OD-VIRAT
-**Large-Scale Object Detection Benchmark**
-- Surveillance environments
-- Realistic video scenarios
-- [View Repository →](https://github.com/hayatkhan8660-maker/OD-VIRAT)
-
-</td>
-<td width="50%">
-
-#### 🔥 Fire Segmentation
-**Intelligent Transportation Systems**
-- Published: IEEE TITS 2022
-- Real-world application
-- [View Repository →](https://github.com/hayatkhan8660-maker/Fire_Seg_Dataset)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🧑‍🎓 Knowledge Distillation for HAR
-**Response-Based Offline Distillation**
-- 3D CNN optimization
-- Efficient action recognition
-- [View Repository →](https://github.com/hayatkhan8660-maker/Response-based-offline-knowledge-distillation-for-HAR)
-
-</td>
-<td width="50%">
-
-#### 🛰️ Spacecraft Orbit Transfer
-**Deep Reinforcement Learning**
-- Multi-revolution trajectory planning
-- Low-thrust optimization
-- [View Repository →](https://github.com/hayatkhan8660-maker/Cascaded-Deep-Reinforcement-Learning-Based-Multi-Revolution-Low-Thrust-Spacecraft-Orbit-Transfer)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -160,9 +100,42 @@ Multi-Modal Representation Learning ███████░░░░░░░�
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatkhan8660-maker&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Hayat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hayatkhan8660-maker&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hayatkhan8660-maker&theme=tokyonight)
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatkhan8660-maker&theme=github_dark&layout=pie&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hayatkhan8660-maker&theme=github-dark&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 📈 Quick Stats
+
+<div align="center">
+
+![Contributions](https://img.shields.io/badge/Repositories-14-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-19+-brightgreen?style=for-the-badge&logo=github)
+![Following](https://img.shields.io/badge/Following-21-orange?style=for-the-badge&logo=github)
+
+</div>
+
+<div align="center">
+
+### 🎯 Research Focus Areas
+
+![Python](https://img.shields.io/badge/Python-90%-blue?style=flat-square&logo=python)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-95%-blueviolet?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-90%-brightgreen?style=flat-square)
+![Video Analysis](https://img.shields.io/badge/Video%20Analysis-85%-orange?style=flat-square)
 
 </div>
 
