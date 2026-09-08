@@ -104,13 +104,9 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 <div align="center">
 
-![Hayat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hayatkhan8660-maker&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatkhan8660-maker&theme=github_dark&layout=pie&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-hayatkhan8660--maker-0A66C2?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker)
+[![Repositories](https://img.shields.io/badge/Repositories-14-blue?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker?tab=repositories)
+[![Followers](https://img.shields.io/badge/Followers-19+-brightgreen?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker?tab=followers)
 
 </div>
 
