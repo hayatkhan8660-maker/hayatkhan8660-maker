@@ -100,15 +100,21 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Visitor Map
+
+### 🌍 Global Visitor Tracking
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-hayatkhan8660--maker-0A66C2?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker)
-[![Repositories](https://img.shields.io/badge/Repositories-14-blue?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker?tab=repositories)
-[![Followers](https://img.shields.io/badge/Followers-19+-brightgreen?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker?tab=followers)
+**Visitors from Around the World**
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhayatkhan8660-maker&labelColor=%23000000&countColor=%230A66C2&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhayatkhan8660-maker)
+
+> 📍 Track where visitors to this GitHub profile are coming from!
 
 </div>
+
+### 📈 Contribution Streak
 
 <div align="center">
 
