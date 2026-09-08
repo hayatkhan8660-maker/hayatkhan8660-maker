@@ -110,37 +110,20 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhayatkhan8660-maker&label=Visitors&countColor=%23263759)
 
-</div>
+**Click Below to View Interactive Visitor Map & Dashboard**
 
-#### 📍 View Visitor Location Map
-
-**Option 1: GitHub Traffic Insights** (Owner Only)
-- Go to: `https://github.com/hayatkhan8660-maker/hayatkhan8660-maker/graphs/traffic`
-- Shows: Visitors by date, top referrers, clone statistics
-- Real-time data from your repository traffic
-
-**Option 2: VisitorBadge Dashboard**
-- Visit: `https://visitorbadge.io/status?path=https://github.com/hayatkhan8660-maker`
-- Shows: Global visitor map, location breakdown by country/region
-- Real-time visitor analytics dashboard
-
-**Option 3: Google Analytics** (Advanced Setup)
-- Add tracking code to README or personal website
-- Get detailed visitor demographics and behavior
-- [Setup Guide](https://analytics.google.com)
-
-<div align="center">
-
-| Analytics Feature | Access Method | Data Provided |
-|---|---|---|
-| **GitHub Traffic** | Owner Dashboard | Clones, Visitors, Referrers |
-| **VisitorBadge Map** | VisitorBadge.io Link | Location Heat Map, Country Stats |
-| **Google Analytics** | Custom Setup | Detailed Demographics, Behavior |
-| **Count Badge** | Live Badge (Above) | Total Visitor Count |
+[![View Visitor Dashboard](https://img.shields.io/badge/View%20Visitor%20Analytics-Interactive%20Map-0A66C2?style=for-the-badge&logo=world&logoColor=white)](https://visitorbadge.io/status?path=https://github.com/hayatkhan8660-maker)
 
 </div>
 
-> 💡 **Pro Tip:** Click the VisitorBadge above to see a real-time world map of your profile visitors!
+#### 📊 Visitor Dashboard Features:
+- 🌍 **World Map** - See where your visitors are coming from in real-time
+- 📍 **Geographic Breakdown** - Visitor distribution by country and region
+- 📈 **Traffic Analytics** - Daily visitor trends and patterns
+- 🔄 **Live Updates** - Data refreshes every hour
+- 🎯 **Detailed Metrics** - Session duration, page views, and more
+
+
 
 
 
