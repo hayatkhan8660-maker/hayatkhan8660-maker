@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hayat Ullah
+# Hayat Ullah 
 ### Computer Vision Researcher & PhD Candidate
 
 [![Email](https://img.shields.io/badge/Email-hullah2024%40fau.edu-blue?style=flat-square&logo=gmail)](mailto:hullah2024@fau.edu)
