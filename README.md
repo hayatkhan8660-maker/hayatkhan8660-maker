@@ -102,99 +102,29 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 ## 📊 GitHub Statistics & Visitor Map
 
-### 🌍 Global Visitor Map
+### 🌍 Global Visitor Tracking
 
 <div align="center">
 
-**Real-Time Visitor Distribution Across Regions**
+**Real-Time Visitor Counter**
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhayatkhan8660-maker&label=Visitors&countColor=%23263759)
 
 </div>
 
-#### 📍 Visitor Regions Map
+**📍 View Your Actual Visitor Locations by Region:**
 
-<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg" style="width: 100%; border: 1px solid #e1e4e8; border-radius: 12px; background: #f6f8fa;">
-  
-  <!-- Title -->
-  <text x="500" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f6feb">Global Visitor Distribution</text>
-  
-  <!-- North America Region -->
-  <rect x="50" y="100" width="180" height="140" fill="#0C447C" opacity="0.8" rx="8"/>
-  <text x="140" y="165" text-anchor="middle" font-size="16" font-weight="bold" fill="white">North America</text>
-  <text x="140" y="190" text-anchor="middle" font-size="14" fill="white">2,450 Visitors</text>
-  <text x="140" y="210" text-anchor="middle" font-size="12" fill="white">28.9%</text>
-  
-  <!-- South America Region -->
-  <rect x="80" y="280" width="140" height="120" fill="#378ADD" opacity="0.8" rx="8"/>
-  <text x="150" y="330" text-anchor="middle" font-size="14" font-weight="bold" fill="white">South America</text>
-  <text x="150" y="350" text-anchor="middle" font-size="13" fill="white">380 Visitors</text>
-  <text x="150" y="368" text-anchor="middle" font-size="11" fill="white">4.5%</text>
-  
-  <!-- Europe Region -->
-  <rect x="380" y="80" width="160" height="130" fill="#185FA5" opacity="0.8" rx="8"/>
-  <text x="460" y="140" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Europe</text>
-  <text x="460" y="165" text-anchor="middle" font-size="14" fill="white">1,920 Visitors</text>
-  <text x="460" y="185" text-anchor="middle" font-size="12" fill="white">22.6%</text>
-  
-  <!-- Africa Region -->
-  <rect x="420" y="270" width="120" height="140" fill="#85B7EB" opacity="0.8" rx="8"/>
-  <text x="480" y="330" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f6feb">Africa</text>
-  <text x="480" y="350" text-anchor="middle" font-size="12" fill="#1f6feb">245 Visitors</text>
-  <text x="480" y="368" text-anchor="middle" font-size="11" fill="#1f6feb">2.9%</text>
-  
-  <!-- Asia Region -->
-  <rect x="620" y="110" width="200" height="150" fill="#0C447C" opacity="0.9" rx="8"/>
-  <text x="720" y="175" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Asia</text>
-  <text x="720" y="200" text-anchor="middle" font-size="14" fill="white">3,180 Visitors</text>
-  <text x="720" y="220" text-anchor="middle" font-size="12" fill="white">37.5%</text>
-  
-  <!-- Oceania Region -->
-  <rect x="800" y="360" width="130" height="100" fill="#B5D4F4" opacity="0.8" rx="8"/>
-  <text x="865" y="405" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f6feb">Oceania</text>
-  <text x="865" y="425" text-anchor="middle" font-size="12" fill="#1f6feb">310 Visitors</text>
-  <text x="865" y="442" text-anchor="middle" font-size="10" fill="#1f6feb">3.7%</text>
-  
-  <!-- Connecting lines -->
-  <line x1="230" y1="170" x2="380" y2="145" stroke="#d0d7de" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="220" y1="340" x2="420" y2="340" stroke="#d0d7de" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="540" y1="145" x2="620" y2="185" stroke="#d0d7de" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="500" y1="340" x2="620" y2="300" stroke="#d0d7de" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="820" y1="265" x2="800" y2="360" stroke="#d0d7de" stroke-width="2" stroke-dasharray="5,5"/>
-  
-  <!-- Legend -->
-  <g transform="translate(50, 480)">
-    <text x="0" y="0" font-size="14" font-weight="bold" fill="#1f6feb">Visitor Density Legend:</text>
-    
-    <rect x="0" y="20" width="20" height="20" fill="#0C447C" rx="3"/>
-    <text x="30" y="35" font-size="12" fill="#333">Very High (2000+)</text>
-    
-    <rect x="280" y="20" width="20" height="20" fill="#185FA5" rx="3"/>
-    <text x="310" y="35" font-size="12" fill="#333">High (1500-2000)</text>
-    
-    <rect x="540" y="20" width="20" height="20" fill="#378ADD" rx="3"/>
-    <text x="570" y="35" font-size="12" fill="#333">Medium (300-500)</text>
-    
-    <rect x="800" y="20" width="20" height="20" fill="#85B7EB" rx="3"/>
-    <text x="830" y="35" font-size="12" fill="#333">Low (100-300)</text>
-  </g>
-  
-  <!-- Total Stats -->
-  <rect x="50" y="560" width="900" height="30" fill="#f0f6fc" rx="6" stroke="#0969da" stroke-width="2"/>
-  <text x="500" y="582" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f6feb">Total Visitors: 8,485 | Active Countries: 45+ | Updated: Real-time</text>
-  
-</svg>
+Visit the VisitorBadge Dashboard to see your real visitor data:
+- 🌍 Interactive world map showing actual visitor locations
+- 📊 Regional breakdown by country
+- 📈 Traffic trends and patterns  
+- 🔄 Live data that updates hourly
 
-#### 📊 Regional Statistics
+**Dashboard Link:** https://visitorbadge.io/status?path=https://github.com/hayatkhan8660-maker
 
-| Region | Visitors | Percentage | Top Country |
-|--------|----------|-----------|-------------|
-| 🌏 **Asia** | 3,180 | **37.5%** | India |
-| 🌎 **North America** | 2,450 | **28.9%** | USA |
-| 🌍 **Europe** | 1,920 | **22.6%** | UK |
-| 🌎 **South America** | 380 | **4.5%** | Brazil |
-| 🌍 **Oceania** | 310 | **3.7%** | Australia |
-| 🌍 **Africa** | 245 | **2.9%** | Nigeria |
+
+
+
 
 
 
