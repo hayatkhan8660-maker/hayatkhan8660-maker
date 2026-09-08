@@ -100,9 +100,7 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 ---
 
-## 📊 GitHub Statistics & Visitor Map
-
-### 🌍 Global Visitor Tracking
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -111,25 +109,6 @@ I'm passionate about advancing machine learning and computer vision through rese
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhayatkhan8660-maker&label=Visitors&countColor=%23263759)
 
 </div>
-
-**📍 View Your Actual Visitor Locations by Region:**
-
-Visit the VisitorBadge Dashboard to see your real visitor data:
-- 🌍 Interactive world map showing actual visitor locations
-- 📊 Regional breakdown by country
-- 📈 Traffic trends and patterns  
-- 🔄 Live data that updates hourly
-
-**Dashboard Link:** https://visitorbadge.io/status?path=https://github.com/hayatkhan8660-maker
-
-
-
-
-
-
-
-
-
 
 
 ### 📈 Contribution Streak
