@@ -1,6 +1,6 @@
 <div align="center">
   
-### Computer Vision Researcher & PhD Candidate
+# Computer Vision Researcher & PhD Candidate
 
 [![Email](https://img.shields.io/badge/Email-hullah2024%40fau.edu-blue?style=flat-square&logo=gmail)](mailto:hullah2024@fau.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hayat%20Ullah-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hayat-ullah2024/)
