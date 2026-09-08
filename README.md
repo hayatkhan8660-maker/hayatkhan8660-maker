@@ -104,14 +104,6 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-hayatkhan8660--maker-0A66C2?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker)
-[![Repositories](https://img.shields.io/badge/Repositories-14-blue?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker?tab=repositories)
-[![Followers](https://img.shields.io/badge/Followers-19+-brightgreen?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker?tab=followers)
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hayatkhan8660-maker&theme=github-dark&hide_border=true&background=0d1117)
 
 </div>
