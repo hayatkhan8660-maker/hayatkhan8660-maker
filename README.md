@@ -108,7 +108,7 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 **Visitors from Around the World**
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhayatkhan8660-maker&labelColor=%23000000&countColor=%230A66C2&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhayatkhan8660-maker)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhayatkhan8660-maker&label=Visitors&countColor=%23263759)
 
 > 📍 Track where visitors to this GitHub profile are coming from!
 
