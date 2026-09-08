@@ -34,7 +34,7 @@ I'm passionate about advancing machine learning and computer vision through rese
 **Temporal Action Localization** • **Spatio-Temporal Recognition** • **Scene Understanding** • **Object Detection & Tracking**
 
 ### 🧠 Advanced Deep Learning Techniques  
-**Knowledge Distillation** • **Multi-Modal Architectures** • **Self-Supervised Learning** • **Meta Learning**
+**Knowledge Distillation** • **Multi-Modal Architectures** • **Self-Supervised Learning** 
 
 </div>
 
@@ -163,7 +163,6 @@ I'm passionate about advancing machine learning and computer vision through rese
 Currently expanding expertise in:
 - 🔄 Multi-Model Representation Learning
 - 🤖 Self-Supervised Learning techniques
-- 🎯 Meta Learning approaches
 - 🌐 Vision-Language Models
 - ⚡ Efficient neural architectures
 
