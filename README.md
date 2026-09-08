@@ -104,6 +104,14 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 <div align="center">
 
+[![GitHub Profile](https://img.shields.io/badge/GitHub-hayatkhan8660--maker-0A66C2?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker)
+[![Repositories](https://img.shields.io/badge/Repositories-14-blue?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker?tab=repositories)
+[![Followers](https://img.shields.io/badge/Followers-19+-brightgreen?style=for-the-badge&logo=github)](https://github.com/hayatkhan8660-maker?tab=followers)
+
+</div>
+
+<div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hayatkhan8660-maker&theme=github-dark&hide_border=true&background=0d1117)
 
 </div>
@@ -124,10 +132,10 @@ I'm passionate about advancing machine learning and computer vision through rese
 
 ### 🎯 Research Focus Areas
 
-![Python](https://img.shields.io/badge/Python-90%-blue?style=flat-square&logo=python)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-95%-blueviolet?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-90%-brightgreen?style=flat-square)
-![Video Analysis](https://img.shields.io/badge/Video%20Analysis-85%-orange?style=flat-square)
+[![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/hayatkhan8660-maker)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-95%25-blueviolet?style=for-the-badge&logoColor=white)](https://github.com/hayatkhan8660-maker)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-90%25-brightgreen?style=for-the-badge&logoColor=white)](https://github.com/hayatkhan8660-maker)
+[![Video Analysis](https://img.shields.io/badge/Video%20Analysis-85%25-orange?style=for-the-badge&logoColor=white)](https://github.com/hayatkhan8660-maker)
 
 </div>
 
