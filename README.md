@@ -7,8 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%40khanh9474-000000?style=flat-square&logo=medium)](https://medium.com/@khanh9474)
 [![GitHub](https://img.shields.io/badge/GitHub-hayatkhan8660--maker-333?style=flat-square&logo=github)](https://github.com/hayatkhan8660-maker)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hayatkhan8660-maker&label=Profile%20Views&color=0e75b6&style=flat)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=hayatkhan8660-maker&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/hayatkhan8660-maker)
 </div>
 
 ---
