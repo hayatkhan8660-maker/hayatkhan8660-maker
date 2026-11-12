@@ -19,7 +19,7 @@ PhD Candidate in **Computer Vision** at **Florida Atlantic University** | Resear
 
 I'm passionate about advancing machine learning and computer vision through research. My expertise spans **video understanding**, **action recognition**, and **deep learning architectures**. Currently exploring multi-modal learning and self-supervised approaches to solve real-world vision challenges.
 
-🎓 **Current Role:** Actively looking for full time roles (Applied Scientist and CV Research Engineering roles) 
+🎓 **Current Role:** Actively looking for full time industrial positions
 📍 **Location:** Boca Raton, FL, USA  
 💼 **Status:** Actively seeking full-time opportunities (on-site & remote)
 
